@@ -1,6 +1,7 @@
-# LAB-48-RESUME-EVALUASI-TAHAP-2-OJM-2024
+# LAB-48-RESUME-EVALUASI-TAHAP-2-OJM
 TANGGAL 4 SEPTEMBER 2025
 
+**tahun 2024**
 Dalam vidio tersebut menjelasakan tentang beberapa vidio dengan topik utama vidio nya yaitu traffic control. sebagian besar peserta menggunaka firewaal dan queue ada juga yang bahas load blace, tapi banyak terjebak di routing. ada beberapa vidio yang pa valen anggap hal baru dan unik topiknya dari 80 peserta dan 74 peserta yang mengirimkan.
 
 **berikut beberapa vidio yang menonjol**
@@ -17,5 +18,8 @@ Dalam vidio tersebut menjelasakan tentang beberapa vidio dengan topik utama vidi
 5. HTB total menggabungkan upload  download
 6. PPC ditaruh di nat
 
+**tahun 2023**
+disini ada beberapa kekurangan kekurangan yang tidak sengaja dilakukan oleh perserta dari 125 peserta dan ini mungkin bisa jdi bahan evaluasi untuk tahun berikutnya supaya tidak terulang lagi.
+dari beberapa topik yg kami sediakan ternyata ada beberapa peserta yang mengambil topik terlalu luas bahkan ada yang menggmbil topik sekaligus hal ini tidak di larang cuma dalam waktu 20 menit
 
 
