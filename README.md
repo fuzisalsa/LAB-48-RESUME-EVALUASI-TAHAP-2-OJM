@@ -19,7 +19,10 @@ Dalam vidio tersebut menjelasakan tentang beberapa vidio dengan topik utama vidi
 6. PPC ditaruh di nat
 
 **tahun 2023**
-disini ada beberapa kekurangan kekurangan yang tidak sengaja dilakukan oleh perserta dari 125 peserta dan ini mungkin bisa jdi bahan evaluasi untuk tahun berikutnya supaya tidak terulang lagi.
-dari beberapa topik yg kami sediakan ternyata ada beberapa peserta yang mengambil topik terlalu luas bahkan ada yang menggmbil topik sekaligus hal ini tidak di larang cuma dalam waktu 20 menit
-
-
+Evaluasi Pembelajaran. 
+1. Jangan hanya memberi tutorial/langkahnya saja, tetapi jelaskan langkah a, b, c itu untuk apa, kalau tidak di setting kenapa, kalau ada error kenapa.    
+2. Citraweb tidak melarang mengunakan merk lain, tetapi yang dibahas itu hanya "Mikrotik" jadi jangan banyak membahas di produk lain.     
+3. Jangan terlalu luas kemana-mana, karna waktunya hanya 20 Menit, Citraweb sudah menyediakan beberapa topiik yang bisa dipilih. Dan bisa memilih lebih dari 1 topik.   
+4. Proses pengetesan harus lengkap, jangan di cek dari A ke B saja tapi dari A ke B dan dari B ke A.   
+5. Banyak yang mengunakan IP Address Public, IP Address Private yang bisa kita gunakan di lab. Kadang-kadang secara tidk sengaja mengunakan IP-IP cantik seperti 1.1.1.1, 20.20.20.20 dan sebagainya.   
+6. Mainin chain chain default seperti input, output, forward tapi di action return.    
